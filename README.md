@@ -14,6 +14,6 @@
 
 ["Russia", "Denmark", "Kazan"] -> []
 
-> ![Блок-схема алгоритма](//bloch_schema.png)
+> ![Блок-схема алгоритма](//itogovaya\block_schema)
 
 > Алгоритм
