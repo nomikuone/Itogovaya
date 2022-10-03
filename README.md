@@ -14,6 +14,6 @@
 
 ["Russia", "Denmark", "Kazan"] -> []
 
-> ![Блок-схема алгоритма](//itogovaya\block_schema)
+> ![Блок-схема алгоритма](https://github.com/nomikuone/Itogovaya/blob/main/bloch_schema.png)
 
-> Алгоритм
+> ![Алгоритм](https://github.com/nomikuone/Itogovaya/blob/main/Program.cs)
